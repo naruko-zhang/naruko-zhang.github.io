@@ -1,53 +1,21 @@
 [
   {
-    "slug": "kuaishou-promotion",
-    "title": "快手 · 设计通道 E13 晋升答辩",
+    "slug": "kuaishou-ops-design",
+    "title": "快手 · 运营产品 + 运营设计中心 47 人复合团队",
     "company": "快手",
     "period": "2024.05 — 至今",
     "role": "运营产品中心 + 运营设计中心负责人",
     "team_size": "47 人",
-    "summary": "快手主站内容运营线设计通道 E13 晋升答辩材料(2026.03)。包含团队管理、业务推动、专业影响等完整答辩内容。",
+    "summary": "接手时设计团队处在\"专业基础薄弱→交付质量差→业务不信任→士气低落\"的负向循环。一年内系统性解决\"人不行、事不顺、没价值\"三件事，评审通过率 30%→95%，单场交付时长 93.4pd→37.8pd。2025.06 兼管运营产品中心后，把\"灵活的运营诉求\"系统化为可复用的产品能力。",
     "tags": [
       "团队管理",
-      "产品",
-      "设计",
-      "晋升答辩"
+      "产品 × 设计",
+      "复杂业务系统化"
     ],
     "dir": "promotion",
-    "cover": "page-01.jpg",
+    "cover": "page-03.jpg",
     "pageCount": 30,
-    "pages": [
-      "page-01.jpg",
-      "page-02.jpg",
-      "page-03.jpg",
-      "page-04.jpg",
-      "page-05.jpg",
-      "page-06.jpg",
-      "page-07.jpg",
-      "page-08.jpg",
-      "page-09.jpg",
-      "page-10.jpg",
-      "page-11.jpg",
-      "page-12.jpg",
-      "page-13.jpg",
-      "page-14.jpg",
-      "page-15.jpg",
-      "page-16.jpg",
-      "page-17.jpg",
-      "page-18.jpg",
-      "page-19.jpg",
-      "page-20.jpg",
-      "page-21.jpg",
-      "page-22.jpg",
-      "page-23.jpg",
-      "page-24.jpg",
-      "page-25.jpg",
-      "page-26.jpg",
-      "page-27.jpg",
-      "page-28.jpg",
-      "page-29.jpg",
-      "page-30.jpg"
-    ]
+    "status": "wip"
   },
   {
     "slug": "feishu-crm",
@@ -106,7 +74,8 @@
       "page-036.jpg",
       "page-037.jpg",
       "page-038.jpg"
-    ]
+    ],
+    "status": "wip"
   },
   {
     "slug": "tencent-healthcare",
@@ -188,7 +157,8 @@
       "page-096.jpg",
       "page-097.jpg",
       "page-098.jpg"
-    ]
+    ],
+    "status": "wip"
   },
   {
     "slug": "alibaba-youku",
@@ -292,7 +262,8 @@
       "page-178.jpg",
       "page-179.jpg",
       "page-180.jpg"
-    ]
+    ],
+    "status": "wip"
   },
   {
     "slug": "meituan-erp",
@@ -359,30 +330,7 @@
       "page-224.jpg",
       "page-225.jpg",
       "page-226.jpg"
-    ]
-  },
-  {
-    "slug": "bytedance-early",
-    "title": "字节跳动 · 内涵段子设计",
-    "company": "字节跳动",
-    "period": "2013.12 — 2015.09",
-    "role": "产品 UX 设计师",
-    "team_size": "—",
-    "summary": "参与内涵段子多个版本设计工作,负责定义整体设计风格、制定规范和工作流程。代表项目:内涵段子 APP v3.0—4.6 迭代设计(2014)。",
-    "tags": [
-      "社区",
-      "移动端",
-      "早期"
     ],
-    "dir": "portfolio",
-    "cover": "page-227.jpg",
-    "startPage": 227,
-    "endPage": 229,
-    "pageCount": 3,
-    "pages": [
-      "page-227.jpg",
-      "page-228.jpg",
-      "page-229.jpg"
-    ]
+    "status": "wip"
   }
 ]
